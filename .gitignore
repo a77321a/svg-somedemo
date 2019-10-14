@@ -1,0 +1,6 @@
+*.log
+*.env
+*.xml
+*.iml
+node_modules
+dist
